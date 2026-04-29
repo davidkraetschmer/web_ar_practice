@@ -88,7 +88,7 @@ model-viewer {
 }
 
 #qr-button:hover {
-  background-image: url(https://davidkraetschmer.github.io/web_ar_practice.git.io/qrcode.png);
+  background-image: url(https://davidkraetschmer.github.io/web_ar_practice/qrcode.png);
   height: 200px;
   width: 200px;
 }
